@@ -1,0 +1,6 @@
+{
+  "name": "KnowledgeHub",
+  "description": "Personal Knowledge Management System frontend matching Stitch designs for capturing, enriching, and organizing knowledge items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
